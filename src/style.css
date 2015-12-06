@@ -55,8 +55,8 @@ a:hover, a:active {
 /* header panel */
 
 #header {
-    background: none repeat scroll 0 0 #205081;
-    background-color: #205081;
+    background: none repeat scroll 0 0 #549fb7;
+    background-color: #549fb7;
 }
 
 #header td#login-field span a {
@@ -406,6 +406,9 @@ td.progress-bar-done {
     border-top: 0 none;
     text-align: center;
     color: #707070;
+    background: url('bg-testimonial.jpg');
+    background-size: cover;
+    background-position: center center;
 }
 
 

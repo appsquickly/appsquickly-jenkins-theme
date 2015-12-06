@@ -23,7 +23,7 @@
     }
 }
 
-Keyframes inprogress {
+@Keyframes inprogress {
     0% {
         opacity: 1;
     }
