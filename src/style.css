@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a:link, a:visited {
     text-decoration: none;
-    color: #3b73af;
+    color: #549fb7;
 }
 
 a:hover, a:active {
@@ -33,7 +33,7 @@ a:hover, a:active {
 
 #executors a.model-link.inside {
     background: none repeat scroll 0 0 #F5F5F5!important;
-    color: #3B73AF;
+    color: #549fb7;
     display: inline-block;
     font-size: 12px;
     font-weight: normal;
@@ -102,7 +102,6 @@ a:hover, a:active {
     height: 1.71428571428571em;
     line-height: 1.71428571428571;
     position: static;
-    font-size: 16px;
     padding: 5px 10px;
     background-image: none;
 }
@@ -268,15 +267,15 @@ div.pane-header, div.pane-header a:link, div.pane-header a:visited {
 }
 
 table.progress-bar.red td.progress-bar-done {
-    background-color: #3465a4;
+    background-color: #549fb7;
 }
 
 table.progress-bar.red {
-    border: 1px solid #3465a4;
+    border: 1px solid #549fb7;
 }
 
 td.progress-bar-done {
-    background-color: #3465a4;
+    background-color: #549fb7;
 }
 
 
@@ -350,7 +349,7 @@ td.progress-bar-done {
 }
 
 .tabBar .tab a {
-    color: #3b73af;
+    color: #549fb7;
     position: relative;
     display: block;
     border-width: 0px;
@@ -498,6 +497,17 @@ tr.permission-row:nth-child(even) {
 }
 
 
+/* Color overrides */
+#jenkins .yui-button.primary button {
+    background-color: #777;
+    color: #eee;
+    border: 1px solid #777;
+}
 
+#jenkins .yui-button.primary button:hover {
+    background-color: #777;
+    color: #eee;
+    border: 1px solid #777;
+}
 
 

@@ -59,14 +59,7 @@ input[name='j_username'], input[name='j_password'] {
 }
 
 .login-button {
-	background: #f2f2f2!important;
-	background: -webkit-linear-gradient(top,#fff 0,#f2f2f2 100%)!important;
-	background: -moz-linear-gradient(top,#fff 0,#f2f2f2 100%)!important;
-	background: -ms-linear-gradient(top,#fff 0,#f2f2f2 100%)!important;
-	background: -o-linear-gradient(top,#fff 0,#f2f2f2 100%)!important;
-	background: linear-gradient(to bottom,#fff 0,#f2f2f2 100%)!important;
-	border: 1px solid #ccc!important;
-	border-radius: 3.01px!important;
+	background: #777;
 	-moz-box-sizing: border-box!important;
 	box-sizing: border-box!important;
 	color: #333!important;
