@@ -80,7 +80,7 @@ a:hover, a:active {
     background-size: contain;
     display: block;
     width: 330px;
-    height: 37px;
+    height: 37px!important;
     margin: 0px 0 0px 10px;
 }
 
